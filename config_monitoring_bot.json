@@ -1,0 +1,9 @@
+{
+    "api_key":                  "hf7fhf87qhw3d93dj92Klsq09iqdmpq893DM",
+    "bot_token":                "6639262372:AAGstDNBvD20ftCK0849VDFjA1qc5KkudoU",
+    "url_server":               "http://128.140.58.97:8082",
+    "headers":                  {"Content-Type": "application/json"},
+    "timeout":                  999,
+    "long_polling_timeout":     5,
+    "good_code":                200
+}
